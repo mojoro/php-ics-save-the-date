@@ -1,0 +1,6 @@
+{
+    "name": "ics/test",
+    "require": {
+        "johngrogg/ics-parser": "^2.2"
+    }
+}
