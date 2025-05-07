@@ -4,7 +4,7 @@ require 'vendor/autoload.php';
 use ICal\ICal;
 
 // Replace with your actual ICS URL
-$icsUrl = 'https://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics';
+$icsUrl = 'https://ics.calendarlabs.com/67/9fa9febe/Singapore_Holidays.ics';
 
 try {
     $ical = new ICal($icsUrl, [
